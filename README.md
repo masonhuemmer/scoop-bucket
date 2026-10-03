@@ -8,3 +8,5 @@ Scoop manifests for [m365](https://github.com/masonhuemmer/m365).
 scoop bucket add masonhuemmer https://github.com/masonhuemmer/scoop-bucket
 scoop install m365
 ```
+
+Dops is also available: `scoop install masonhuemmer/dops`.
