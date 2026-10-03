@@ -2,21 +2,21 @@
     "version": "0.4.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jacobhuemmer/m365/releases/download/v0.4.0/m365_0.4.0_windows_amd64.zip",
+            "url": "https://github.com/masonhuemmer/m365/releases/download/v0.4.0/m365_0.4.0_windows_amd64.zip",
             "bin": [
                 "m365.exe"
             ],
             "hash": "9bbcb3732c4be54099b77199e02e94745f05e5d3fdd74dc63f410c5b69aee91d"
         },
         "arm64": {
-            "url": "https://github.com/jacobhuemmer/m365/releases/download/v0.4.0/m365_0.4.0_windows_arm64.zip",
+            "url": "https://github.com/masonhuemmer/m365/releases/download/v0.4.0/m365_0.4.0_windows_arm64.zip",
             "bin": [
                 "m365.exe"
             ],
             "hash": "4323a888d6b4201d5cee719164182552ffc3c18c3aaa6c2f35e525ea1e89be10"
         }
     },
-    "homepage": "https://github.com/jacobhuemmer/m365",
+    "homepage": "https://github.com/masonhuemmer/m365",
     "license": "MIT",
     "description": "Microsoft 365 CLI for one signed-in user"
 }
