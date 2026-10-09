@@ -1,19 +1,19 @@
 {
-    "version": "0.4.0",
+    "version": "0.5.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/masonhuemmer/m365/releases/download/v0.4.0/m365_0.4.0_windows_amd64.zip",
+            "url": "https://github.com/masonhuemmer/m365/releases/download/v0.5.0/m365_0.5.0_windows_amd64.zip",
             "bin": [
                 "m365.exe"
             ],
-            "hash": "9bbcb3732c4be54099b77199e02e94745f05e5d3fdd74dc63f410c5b69aee91d"
+            "hash": "837c0fbb1b160969728a8bcca9a7064001b38eedfe11a97635817b351524e0bd"
         },
         "arm64": {
-            "url": "https://github.com/masonhuemmer/m365/releases/download/v0.4.0/m365_0.4.0_windows_arm64.zip",
+            "url": "https://github.com/masonhuemmer/m365/releases/download/v0.5.0/m365_0.5.0_windows_arm64.zip",
             "bin": [
                 "m365.exe"
             ],
-            "hash": "4323a888d6b4201d5cee719164182552ffc3c18c3aaa6c2f35e525ea1e89be10"
+            "hash": "a9392309f01f0ade0debd80d8a8285faa6e204dae45818343342dc05ca18eb90"
         }
     },
     "homepage": "https://github.com/masonhuemmer/m365",
